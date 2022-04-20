@@ -1,0 +1,1 @@
+export { excelUploadRouter } from './bulkRoute/uploadProductRoute';

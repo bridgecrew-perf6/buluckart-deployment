@@ -1,0 +1,1 @@
+export { lcouponRoute } from './lcouponRoute';

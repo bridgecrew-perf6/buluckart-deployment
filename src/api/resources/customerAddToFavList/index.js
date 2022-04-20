@@ -1,0 +1,1 @@
+export { custFavListRouter } from './favRoute';

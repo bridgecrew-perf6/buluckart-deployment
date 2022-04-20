@@ -1,0 +1,1 @@
+export { TaxSettingRouter } from './TaxRoute';

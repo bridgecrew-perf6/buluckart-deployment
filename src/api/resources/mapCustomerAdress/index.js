@@ -1,0 +1,1 @@
+export { mapAdressRouter } from './maprouter';

@@ -1,0 +1,1 @@
+export { congigueLoyaltyRoute } from './configRoute';

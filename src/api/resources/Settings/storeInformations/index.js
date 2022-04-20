@@ -1,0 +1,1 @@
+export { informationRouter } from './informationRoute';

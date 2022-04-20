@@ -1,0 +1,1 @@
+export { textRoute } from './textRoute';

@@ -1,0 +1,1 @@
+export { imgRouter } from './imgRoute';
